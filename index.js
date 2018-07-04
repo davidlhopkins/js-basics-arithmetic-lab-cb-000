@@ -1,7 +1,4 @@
-const currentAge;
-
-function ageIsValid()
-ageIsValid = Number.isInteger(currentAge);
+let ageIsValid = Number.isInteger(currentAge);
 
 const newID = oldID + 1000000000;
 
