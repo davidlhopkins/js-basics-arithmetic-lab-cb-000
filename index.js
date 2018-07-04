@@ -6,5 +6,4 @@ let randomNumber = Math.random() * 20 + 1;
 
 let randomInteger = Math.floor(randomNumber);
 
-let randomUserID = 1000000040
-    randomUserid = Math.random() * 20
+let randomUserID = Math.floor(Math.random() * 20) + 1000000001;
